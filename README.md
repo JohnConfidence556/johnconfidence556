@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hello%20👋,%20I'm%20PJ&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Founder%20%7C%20Building%20in%20Public&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hello%20👋,%20I'm%20John&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Learning%20%7C%20Growing%20%7C%20Building%20in%20AI%2FML&descAlignY=58&descSize=18" width="100%" />
 
 </div>
 
@@ -15,73 +15,64 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm an **AI/ML engineer** who turns messy data and ambitious ideas into working products.
-- 🚀 Founder & CEO of **Areaa Technologies Limited**, an AI-powered campus marketplace for university students.
-- 🧠 I also build **AI talent intelligence tooling** at Authorrrity.
-- 🛠️ I learn by doing: I ship projects end to end, from data and modelling to deployment.
-- 📣 I **build in public** on LinkedIn, sharing technical progress and lessons learned.
-- 💡 Fun fact: I'm running a **24-project public portfolio sprint**, so this profile keeps growing.
+- 🌱 Currently learning and growing in AI/ML engineering.
+- 🤖 Exploring Machine Learning, Deep Learning, LLMs, RAG, and AI Agents.
+- 🛠️ Learning by building practical projects and experimenting with new ideas.
+- 📚 Documenting my progress, sharing resources, and learning in public.
+- 🚀 Always curious, always learning, always building.
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
+  <!-- Programming -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  <!-- AI / ML -->
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+  <!-- LLM Engineering & Agents -->
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=langfuse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+
+  <!-- Backend / Frontend -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+  <!-- Development Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-> ✏️ Edit this list to match what you actually use day to day.
-
----
-
-### 🔥 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🛒 **[Areaa](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)** | AI-powered campus marketplace connecting university students | Add stack |
-| 🕵️ **[Fraud Detection](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)** | Behavioural feature engineering and baseline modelling to catch fraudulent transactions | Python, scikit-learn |
-| 📈 **[Structural Break Detection](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)** | Online structural break detection in time series (ADIA Lab challenge on CrunchDAO) | Python, time series |
-| 📚 **[Sabilearn](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)** | Prototype of an AI-powered personal learning platform for students | Next.js |
-
----
-
-### 🌱 Currently
-
-- 🔨 Building and launching **Areaa** at the university campus level
-- 📊 Working through my **24-project ML/AI portfolio sprint**
-- 🏆 Competing in time series challenges to sharpen my modelling skills
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect
 
-I'm open to **ML/AI engineering roles, collaborations and interesting problems**.
+I'm open to **AI/ML engineering roles, collaborations and interesting problems**.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/john-confidence-bello-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bellojohn556@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://my-portfolio-theta-pearl-51.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>"Doing hard things gets easier the more you ship."</i> ⚡</p>
